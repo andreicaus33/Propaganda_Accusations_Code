@@ -1,6 +1,6 @@
 # Propaganda_Accusations_Code
 
-Replication materials for my MA thesis on the use of "propaganda" as a political accusation in Romanian Senate and Chamber of Deputies debates.
+Replication materials for my BSc thesis on the use of "propaganda" as a political accusation in Romanian Senate and Chamber of Deputies debates.
 
 ## Contents
 
