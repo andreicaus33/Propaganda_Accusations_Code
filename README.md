@@ -45,5 +45,5 @@ Full coding rules in the thesis appendix. Inter-coder reliability against a 10% 
 
 ## Citation
 
-Caus, A. (2025). *Propaganda accusations in Romanian parliamentary discourse, 2000–2024* [Master's thesis]. Leiden University.
+Caus, A. (2025). *Propaganda accusations in Romanian parliamentary discourse, 2000–2024* [Bachelor's thesis]. Leiden University.
 
